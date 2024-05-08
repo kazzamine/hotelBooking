@@ -1,6 +1,0 @@
-.idea/
-vendor/
-node_modules/
-package-lock.json
-composer.lock
-yarn.lock
